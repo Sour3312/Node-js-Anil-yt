@@ -1,0 +1,19 @@
+{
+  "name": "anil-sidhu",
+  "version": "1.0.0",
+  "description": "",
+  "main": " .js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "colors": "^1.4.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "nodemon": "^2.0.20"
+  }
+}
